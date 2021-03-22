@@ -1,9 +1,9 @@
 # Nub-Anti-DDoS
-here is the tutorial for this Anti DDoS
+Tutorial for Anti DDoS
 -----------------------------------------------------------------------------
 Make sure you install nodejs before you do this
 https://nodejs.org/
-Link ^
+Link is here
 -----------------------------------------------------------------------------
 1. Edit ip by right click > edit/open with (notepad) > ctrl + f = your server ip
 2. Replace *your server ip* with your server ip example : 123.456.678
